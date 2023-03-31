@@ -1,0 +1,20 @@
+#features{
+
+  background-color: white;
+  position: relative;
+  z-index: 1
+}
+.feature-box{
+  padding: 5%;
+  text-align: center;
+}
+.feature-title{
+  font-size: 1.5rem;
+}
+.feature-icon{
+  color: #B64C5C;
+  margin-bottom: 1rem;
+}
+.feature-icon:hover{
+  color: #ff4c68;
+}

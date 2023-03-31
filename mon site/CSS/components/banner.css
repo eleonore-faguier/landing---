@@ -1,0 +1,36 @@
+.banner {
+
+background-image: linear-gradient(-130deg, rgba(0,0,0,0.8) 10%, rgba(0,0,0,0.5) 50%), url(../../images/baldepromo.webp);
+color: white;
+padding: 150px 10px;
+background-size: cover;
+background-position: center;
+}
+
+.banner h1 {
+font-size: 50px;
+
+}
+
+.banner h2 {
+font-size: 40px;
+font-weight: lighter;
+opacity: 0.8;
+margin-bottom: 40px;
+}
+
+.banner h5 {
+	font-size: 100px;
+}
+
+.banner1 {
+
+background-image: linear-gradient(-130deg, rgba(0,0,0,0.8) 10%, rgba(0,0,0,0.7) 50%), url(../../images/costume.webp);
+color: white;
+padding: 150px 10px;
+background-size: cover;
+background-position: center;
+align-items: center;
+flex-grow: 1;
+display: flex;
+}
